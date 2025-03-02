@@ -69,6 +69,6 @@ This project is a **Full-Stack Appointment Booking System** built with the **MER
 ---
 
 ## Video Demonstration
-[[Video Link Here]](https://drive.google.com/file/d/1jpy5I0HwisY3BKzKkVxuBJmNd3fn8c6M/view?usp=sharing)
+(https://drive.google.com/file/d/1jpy5I0HwisY3BKzKkVxuBJmNd3fn8c6M/view?usp=sharing)
 
 ---
